@@ -18,3 +18,9 @@
    youzi是主程序（运行这个）
    
    finger和xiaowo是彩蛋（主程序调用）
+
+   可以直接下载release版本
+   
+   release -> Youzi_1.0
+   
+   解压点开youzi.exe即可
